@@ -1,4 +1,2 @@
-Arquivos com datas são os exercicios de lógica de programação realizados em sala de aula.
-
-Para a exucução de atividades para casa, procurar a pasta do respectivo assunto, dentro da pasta haverá um arquivo com a resposta (geralmente o nome do assunto estudado)
-e outro arquivo para execução (main).
+Os códigos desse repositorios são as resoluções de exercicíos proposto em sala de aula.
+Desde o inicio com os fundamentos em Lógica de programação, passando pelos conceitos de POO, Bibliotecas do python, Consumo de Api's.
